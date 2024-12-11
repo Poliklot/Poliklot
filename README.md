@@ -9,6 +9,7 @@
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Handlbars](https://img.shields.io/badge/Handlebars%20js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=black)
 
 Я - frontend-разработчик с увлечением креативным и инновационным подходом к разработке веб-приложений. Моя цель - создавать красивые и удобные интерфейсы, которые приносят пользователю радость и удовлетворение.
 
