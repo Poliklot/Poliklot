@@ -21,7 +21,6 @@
 ## Мои статистики
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=poliklot)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poliklot&layout=compact)](https://github.com/Poliklot/github-readme-stats)
 
