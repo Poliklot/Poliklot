@@ -24,4 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poliklot&layout=compact)](https://github.com/Poliklot/github-readme-stats)
 
-Не стесняйтесь связаться со мной, я всегда открыт к новым интересным проектам и идеям!
+> [!NOTE]
+> Не стесняйтесь связаться со мной, я всегда открыт к новым интересным проектам и идеям!
